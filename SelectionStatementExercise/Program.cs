@@ -24,7 +24,7 @@
                 }
                 else
                 {
-                    Console.WriteLine($"You guessed it!\nThe favorite number was {favNumber}! ";
+                    Console.WriteLine($"You guessed it!\nThe favorite number was {favNumber}!");
                 }
             }
         }
